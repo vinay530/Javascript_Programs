@@ -11,6 +11,8 @@ function person(fname, lname) {
     return (`First name is: ${firstname}, Last
 			name is: ${lastname}`);
   }
+
+  
 }
 let person1 = new person('Mukul', 'Latiyan');
 console.log(person1.firstname);
