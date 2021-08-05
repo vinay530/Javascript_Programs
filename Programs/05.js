@@ -9,4 +9,6 @@ const stringCheck = (str1) => {
   }
 }
 
+console.log("dev branch");
+
 console.log(stringCheck('thon'));
